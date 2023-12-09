@@ -1,4 +1,4 @@
- READMI.md
+ README.md
   # NeiroStartUp
 
   ![логотип](./logo.png)
